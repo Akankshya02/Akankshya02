@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there! 👋 I'm Akankshya Pattnaik
+💻 Technical Skills
+
+Languages: C, Python, Java 
 
 
-**Akankshya02/Akankshya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Platforms: Amazon Web Services (AWS) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Web Development: HTML, CSS, JavaScript, Node.js, React, Express.js, MongoDB 
 
+
+Data Analysis: SQL, Pandas 
+
+
+Tools: Visual Studio Code, Git, Postman API
+
+🔗 Connect with me
+
+LinkedIn: www.linkedin.com/in/akankshya-pattnaik-687503211 
+
+
+Email: akankshyapattnaik5@gmail.com 
