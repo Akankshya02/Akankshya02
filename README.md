@@ -24,5 +24,4 @@ LinkedIn: www.linkedin.com/in/akankshya-pattnaik-687503211
 
 Email: akankshyapattnaik5@gmail.com 
 
-Languages and Tools:
-css3 html5 java linux photoshop React python bootstrap javascript
+
