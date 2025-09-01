@@ -1,5 +1,6 @@
 Hi there! 👋 I'm Akankshya Pattnaik
 
+I am a budding full stack developer, and am currently building my portfolio website, and also working on a personal project which primarily highlights my web development and cloud skills.
 
 💻 Technical Skills
 
